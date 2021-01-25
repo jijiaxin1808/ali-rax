@@ -14,5 +14,5 @@ lib/
 coverage/
 node_modules/
 .rax/
-
+package-lock.json
 template.yml
