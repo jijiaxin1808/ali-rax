@@ -1,0 +1,19 @@
+.loginPage {
+  margin-top: 400rpx;
+}
+.textinput {
+  height: 75rpx;
+  width: 500rpx;
+  margin: 5rpx auto;
+  border: 1px solid #1890ff;
+}
+.loginBtn {
+  width: 500rpx;
+  margin: 0 auto;
+  height: 50rpx;
+  background-color: #1890ff;
+  border:1px solid #1890ff;
+  border-radius: 2px;
+  color: #fff;
+  cursor: pointer;
+}

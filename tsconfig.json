@@ -25,6 +25,7 @@
     "skipLibCheck": true,
     "paths": {
       "@/*": ["./src/*"],
+      "@utils/*": ["./src/utils/*"],
       "rax-app": [".rax/index.ts"]
     }
   },
